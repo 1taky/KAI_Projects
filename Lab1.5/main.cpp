@@ -11,14 +11,14 @@ using namespace std;
 
 int main() {
     {
-        // First values
+        // Перші значення
         int nA = 76, nB = 24;
         float fltC = 8.2, fltD = 8.2;
 
         bool res = !((nA != nB) && (fltC == fltD));
         cout << "First result is: " << boolalpha << res << endl;
 
-        // Second values
+        // Другі значення
         float fltA = 44.9, fltB = 44.9;
         int nC = 31, nD = 47;
 
