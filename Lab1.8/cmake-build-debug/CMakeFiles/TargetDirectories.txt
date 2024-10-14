@@ -1,3 +1,0 @@
-C:/Users/nikem/Desktop/NAU Studying/Programming/ОП Проєкти/Lab/Lab1.8/cmake-build-debug/CMakeFiles/Lab1_8.dir
-C:/Users/nikem/Desktop/NAU Studying/Programming/ОП Проєкти/Lab/Lab1.8/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/nikem/Desktop/NAU Studying/Programming/ОП Проєкти/Lab/Lab1.8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
