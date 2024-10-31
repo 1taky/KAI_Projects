@@ -1,3 +1,7 @@
+//Done by student: Vitaliy Syniak
+//Group: 121-1
+//RGR
+
 #include <iostream>
 #include <string>
 
