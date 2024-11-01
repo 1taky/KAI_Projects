@@ -1,6 +1,6 @@
 //Done by student: Vitaliy Syniak
 //Group: 121-1
-//RGR
+//RGR 28 variant
 
 #include <iostream>
 #include <string>
