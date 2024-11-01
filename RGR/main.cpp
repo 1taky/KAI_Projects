@@ -12,7 +12,7 @@ bool checkChain(string chain);
 int main() {
     string chain;
     cout << "Enter chain: ";
-    cin >> chain;
+    getline(cin, chain);
 
     if (checkChain(chain)) {
         cout << "Chain is true" << endl;
@@ -25,6 +25,8 @@ int main() {
 
 bool checkChain(string chain) {
     int length = chain.length();
+
+    if (length < 3) return false;
 
     if (chain[0] != '+' && chain[0] != '-') {               // Перевіряю, щоб 1 символ був '-' або '+'
         return false;
